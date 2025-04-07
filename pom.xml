@@ -96,7 +96,6 @@
   </build>
 
   <profiles>
-
     <profile>
       <id>Trip-search-runner</id>
       <build>
@@ -123,4 +122,5 @@
       </build>
     </profile>
   </profiles>
+
 </project>
